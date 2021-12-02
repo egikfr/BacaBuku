@@ -1,4 +1,0 @@
-#Wed Dec 01 22:49:42 WIB 2021
-base.0=/Users/egikfrass/MP/Bacabuku/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
